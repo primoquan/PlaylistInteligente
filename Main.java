@@ -77,7 +77,7 @@ public class Main {
 
         while (enAdministrarCanciones) {
             System.out.println("Administrar Canciones:");
-            System.out.println("1. Crear una canción (ingrese 0 para salir)");
+            System.out.println("1. Crear una canción");
             System.out.println("2. Mostrar listado general de canciones");
             System.out.println("3. Regresar al menú principal");
             System.out.print("Seleccione una opción: ");
@@ -110,8 +110,8 @@ public class Main {
             System.out.println("1. Crear una playlist");
             System.out.println("2. Mostrar todas las playlists");
             System.out.println("3. Mostrar una playlist");
-            System.out.println("4. Agregar canción a una playlist (ingrese 0 para salir)");
-            System.out.println("5. Eliminar canción de una playlist (ingrese 0 para salir)");
+            System.out.println("4. Agregar canción a una playlist");
+            System.out.println("5. Eliminar canción de una playlist");
             System.out.println("6. Ordenar playlist por duración");
             System.out.println("7. Ordenar playlist por artista");
             System.out.println("8. Regresar al menú principal");
